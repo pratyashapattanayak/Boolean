@@ -1,0 +1,5 @@
+2025-03-24 16:31:49,364 - INFO - Successfully extracted text from C:\hackathon\Boolean\sample_kb_document.pdf
+2025-03-24 16:31:49,364 - INFO - Health check passed for app-server: All services running fine.
+2025-03-24 16:31:49,364 - INFO - Service app-service restarted successfully.
+2025-03-24 16:31:49,367 - INFO - Generated RCA summary for INC12345
+2025-03-24 16:31:49,367 - INFO - Fetched related incidents for INC12345
