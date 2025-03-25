@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Fix High Disk Usage",
+    "issue": "Disk usage is high",
+    "steps": [
+      "Check disk usage with `df -h`",
+      "Identify large files with `du -sh * | sort -rh | head -10`",
+      "Remove unnecessary logs from `/var/log`"
+    ]
+  }
+]
